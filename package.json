@@ -1,0 +1,11 @@
+{
+  "scripts": {
+    "start": "electron ."
+  },
+  "version": "1.0.0",
+  "description": "A basic Electron application",
+  "main": "main.js",
+  "dependencies": {
+    "electron": "^33.0.1"
+  }
+}
